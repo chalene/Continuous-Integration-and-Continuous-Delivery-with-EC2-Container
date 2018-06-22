@@ -15,7 +15,7 @@ Service With EC2 Container
 
 1.5. 	Click **Create Clusters**.
 
-1.6. 	Select **Networking only**, and click **Next step**.
+1.6. 	Select **EC2 Linux + Networking**, and click **Next step**.
 
 1.7. 	Type **workshop-ecs** as the Cluster name.
 
