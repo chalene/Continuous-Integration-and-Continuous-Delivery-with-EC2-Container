@@ -19,7 +19,7 @@ Service With EC2 Container
 
 1.7. 	Type **workshop-ecs** as the Cluster name.
 
-1.8. 	Click **Create VPC**.
+1.8. 	At the Networking, Select **Create a new VPC**.
 
 1.9. 	Create your own CIDR which not affect others VPC.
 
