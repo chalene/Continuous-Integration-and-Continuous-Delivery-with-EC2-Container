@@ -59,7 +59,7 @@ Service With EC2 Container
 
 1.25. Click **Create**.
 
-1.26.	Back to ECS page, click **Action**, and Select **Create Service**.
+.26.	Back to ECS page, click **Task Definitions** at left panel, select **workshop-container**, click **Action**, and Select **Create Service**.
 
 ![14.png](/ECS-100-Service_with_EC2_Container/images/14.png)
 
