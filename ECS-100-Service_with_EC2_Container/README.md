@@ -51,39 +51,47 @@ Service With EC2 Container
 
 1.21. 	Type **workshop-container** as Container name.
 
-1.22.	Back to ECS page, click **Action**, and Select **Create Service**.
+1.22.   Paste the httpd into Image field.
+
+1.23.   At the Port mappings part, type **0** as Host port, type **80** as Container port
+
+1.24. Click **Add**.
+
+1.25. Click **Create**.
+
+1.26.	Back to ECS page, click **Action**, and Select **Create Service**.
 
 ![14.png](/ECS-100-Service_with_EC2_Container/images/14.png)
 
-1.23. 	Choose **EC2** as Launch type.
+1.27. 	Choose **EC2** as Launch type.
 
-1.24. 	Type **workshop-service** as the Service name.
+1.28. 	Type **workshop-service** as the Service name.
 
-1.25. 	In Number of tasks, enter **1**.
+1.29. 	In Number of tasks, enter **1**.
 
 ![15.png](/ECS-100-Service_with_EC2_Container/images/15.png)
 
-1.26. 	Click **Next step**.
+1.30. 	Click **Next step**.
 
-1.27. 	Under Load balancing, choose **Application Load Balancer**.
+1.31. 	Under Load balancing, choose **Application Load Balancer**.
 
-1.28. 	You will see a warning which mean you need to create ALB, click **EC2 Console**.
+1.32. 	You will see a warning which mean you need to create ALB, click **EC2 Console**.
 
 ![16.png](/ECS-100-Service_with_EC2_Container/images/16.png)
 
-1.29. 	Select **Create** under Application Load Balancer.
+1.33. 	Select **Create** under Application Load Balancer.
 
-1.30. 	Type **workshop-ALB** as Name.
+1.34. 	Type **workshop-ALB** as Name.
 
-1.31. 	Under Availability Zones, choose the VPC you created previously, and select both
+1.35. 	Under Availability Zones, choose the VPC you created previously, and select both
 
 ![17.png](/ECS-100-Service_with_EC2_Container/images/17.png)
 
-1.32. 	Click **Next: Configure Security Settings**.
+1.36. 	Click **Next: Configure Security Settings**.
 
-1.33. 	Click **Next: Configure Security Groups**.
+1.37. 	Click **Next: Configure Security Groups**.
 
-1.34. 	Select **Create a new security group**.
+1.38. 	Select **Create a new security group**.
 
 1.35. 	Type **workshop-ALB-SG** as Security group name.
 
