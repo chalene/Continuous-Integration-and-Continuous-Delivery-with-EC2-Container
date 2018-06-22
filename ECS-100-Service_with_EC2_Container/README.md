@@ -51,7 +51,7 @@ Service With EC2 Container
 
 1.21. 	Type **workshop-container** as Container name.
 
-1.22.   Paste the httpd into Image field.
+1.22.   Paste the **httpd** into Image field.
 
 1.23.   At the Port mappings part, type **0** as Host port, type **80** as Container port
 
