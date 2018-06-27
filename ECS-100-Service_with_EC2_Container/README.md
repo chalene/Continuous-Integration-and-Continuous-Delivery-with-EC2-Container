@@ -163,8 +163,6 @@ Service With EC2 Container
 
 2.3. If the service created successfully, you will see **It works!**.
 
-![25.png](/ECS-100-Service_with_EC2_Container/images/25.png)
-
 
 ## Conclusion
 
