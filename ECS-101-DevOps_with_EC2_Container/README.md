@@ -59,7 +59,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 	$ git config --global credential.helper '!aws codecommit credential-helper $@'
 	$ git config --global credential.UseHttpPath true
 	$ git clone https://github.com/ecloudvalley/Continuous-Integration-and-Continuous-Delivery-with-EC2-Container.git
-	$ . Continuous-Integration-and-Continuous-Delivery-with-Fargate/ECS-101-DevOps_with_Fargate/RunFirst.sh
+	$ . Continuous-Integration-and-Continuous-Delivery-with-EC2-Container/ECS-101-DevOps_with_EC2_Container/RunFirst.sh
 
 3.3. 	If you run successful, you will see a folder name **workshop-codecommit** at left navigation panel.
 
