@@ -202,7 +202,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 
 8.5. Now Back to Cloud9 IDE, try to change app.py.
 
-8.6. In app.py, change the version to **Second Fargate Version**.
+8.6. In app.py, change the version to **Second EC2 Version**.
 
 ![26.png](/ECS-101-DevOps_with_EC2_Container/images/26.png)
 
