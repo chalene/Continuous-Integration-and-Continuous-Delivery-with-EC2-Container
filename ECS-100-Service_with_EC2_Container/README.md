@@ -1,7 +1,7 @@
 Service With EC2 Container
 ================================================================
 ## Lab tutorial
-### Create a Cluster, Task Definition, and Service Using Fargate
+### Create a Cluster, Task Definition, and Service
 
 1.1. 	On the Service Menu, choose **Elastic Container Service** under Compute.
 
