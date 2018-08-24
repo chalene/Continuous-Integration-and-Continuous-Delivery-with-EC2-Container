@@ -286,7 +286,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 
 10.5. Click the latest build history.
 
-10.6. At the Build logs, you can see the test process, and realize how it was fail.
+10.6. At the Build logs, you can see the test process, and realize how it was failed.
 
 ![33.png](/ECS-101-DevOps_with_EC2_Container/images/33.png)
 
