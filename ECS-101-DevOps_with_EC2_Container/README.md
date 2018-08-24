@@ -86,11 +86,11 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 
 ![11.png](/ECS-101-DevOps_with_EC2_Container/images/11.png)
 
-4.8. Go back to Cloud9 IDE, open **buildspec.yml** under **build** floder and replace the Repository URI.
+4.8. Go back to Cloud9 IDE, open **buildspec.yml** under **build** folder and replace the Repository URI.
 
 ![12.png](/ECS-101-DevOps_with_EC2_Container/images/12.png)
 
-4.9. Go back to Cloud9 IDE, open **buildspec.yml** under **build** floder, and replace the Container name to **workshop-container**.
+4.9. Go back to Cloud9 IDE, open **buildspec.yml** under **build** folder, and replace the Container name to **workshop-container**.
 
 ![13.png](/ECS-101-DevOps_with_EC2_Container/images/13.png)
 
@@ -183,7 +183,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 
 ![23.png](/ECS-101-DevOps_with_EC2_Container/images/23.png)
 
-7.8. Back to AWS Codepipeline page, click **Retry** and **Conitune**.
+7.8. Back to AWS Codepipeline page, click **Retry** and **Contiune**.
 
 7.9 When all Stage of pipeline Success deploy, go to next step, it will need a few minutes.
 
