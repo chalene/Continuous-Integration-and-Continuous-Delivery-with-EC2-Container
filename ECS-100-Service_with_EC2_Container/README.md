@@ -103,7 +103,7 @@ Service With EC2 Container
 
 1.39. 	Type **workshop-TG** as the name.
 
-1.40. 	Let other settings default.
+1.40. 	Let other setting default.
 
 1.41. 	Click **Next: Register Target**.
 
