@@ -68,7 +68,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
 3.4. 	Go to **AWS CodeCommit** page, and you will see source code are already push by bash script.
 
 
-### Create a ECR Repository
+### Create an ECR Repository
 
 4.1.    Back to ECS service page.
 
@@ -212,7 +212,7 @@ In this tutorial, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) to cr
     $ git commit -m "First commit"
     $ git push
 
-8.8. When it push to CodeCommit successfully, it would trigger Codepipeline to automate integration and delivery, go back to CodePipeline page to see.
+8.8. When it pushes to CodeCommit successfully, it would trigger Codepipeline to automate integration and delivery, go back to CodePipeline page to see.
 
 8.9. When all stage success, reload the web page, and you can see the new version is deployed.
 
